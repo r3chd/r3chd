@@ -1,5 +1,7 @@
-## Hi there 👋
 
+hi, i'm richard.
+
+i like programming.
 <!--
 **r3chd/r3chd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
